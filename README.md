@@ -12,6 +12,7 @@ mundësinë për të mësuar nga instruktorë të specializuar, pa qenë e nevoj
 të ndjekësh një orar të caktuar fizikisht. Megjithatë, trajnimi tradicional ka avantazhin e
 komunikimit të drejtpërdrejtë me pedagogun. Për mua, mësimi online është një mënyrë praktike
 për të plotësuar njohuritë universitare me aftësi konkrete që kërkohen në tregun e punës.
+
 1-11.Për të vazhduar rritjen e biznesit, drejtuesit e Pluralsight duhet të përqendrohen te cilësia dhe
 përditësimi i vazhdueshëm i kurseve. Teknologjia ndryshon me shpejtësi dhe një kurs që është i
 dobishëm sot mund të mos i përgjigjet më kërkesave të tregut pas disa vitesh. Për këtë arsye,
@@ -26,6 +27,7 @@ dhe do të siguronte burime të reja të ardhurash.
 Një mënyrë tjetër për të rritur të ardhurat do të ishte ofrimi i abonimeve me paketa të ndryshme,
 sipas nevojave dhe mundësive të klientëve. Kjo do t’i lejonte platformës të tërhiqte më shumë
 përdorues.
+
 1-12. Kompanitë janë të interesuara për trajnimin online sepse teknologjia po ndryshon vazhdimisht
 dhe punonjësit duhet të përshtaten me këto ndryshime. Një punonjës që nuk i përditëson
 njohuritë mund të ketë vështirësi në përdorimin e sistemeve dhe mjeteve të reja, duke ndikuar
@@ -40,6 +42,7 @@ teknologjike dhe të përgatitet më mirë për përdorimin e teknologjive të r
 trajnimin nuk duhet parë vetëm si një kosto, por si një investim në zhvillimin e burimeve njerëzore.
 Gjithashtu, kompanitë mund të ndjekin progresin e punonjësve dhe të identifikojnë aftësitë që
 duhet të përmirësojnë.
+
 1-13.Hendeku i aftësive teknologjike krijohet sepse zhvillimi i teknologjisë është shumë i shpejtë,
 ndërsa arsimi dhe përgatitja profesionale nuk arrijnë gjithmonë të përshtaten me të njëjtin ritëm.
 Njohuritë që një person fiton gjatë studimeve mund të vjetrohen me kalimin e kohës, pasi shfaqen
@@ -50,6 +53,7 @@ marrin trajnime të vazhdueshme ose të fitojnë përvojën praktike që kërkoh
 diferencë midis aftësive që kërkojnë kompanitë dhe atyre që zotërojnë kandidatët për punë.
 Rasti i Pluralsight tregon se trajnimi i vazhdueshëm është një mënyrë për të zvogëluar këtë hendek
 dhe për t'i ndihmuar individët dhe organizatat të përshtaten me ndryshimet teknologjike.
+
 1-14. Një universitet tradicional mund të përfitojë nga bashkëpunimi me Pluralsight duke u ofruar
 studentëve më shumë mundësi për të zhvilluar aftësi praktike. Universiteti mund të vazhdojë të
 ofrojë bazën teorike dhe formimin akademik, ndërsa platforma mund të plotësojë këtë proces me
@@ -62,6 +66,7 @@ mundësi për t’u modernizuar dhe për të përmirësuar cilësinë e përgati
 mendimit tim, bashkëpunimi është më shumë një mundësi sesa një kërcënim, sepse platformat
 online nuk e zëvendësojnë plotësisht universitetin. Ato mund ta plotësojnë edukimin tradicional
 me aftësi praktike dhe njohuri të përditësuara.
+
 1-15.Një nga kërcënimet kryesore për Pluralsight është konkurrenca nga platformat e tjera të trajnimit
 online. Gjithashtu, kompani të mëdha teknologjike mund të krijojnë platforma të ngjashme, duke
 përdorur burimet financiare, ekspertizën dhe teknologjinë që zotërojnë.
